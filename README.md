@@ -4,7 +4,7 @@
 
 I'm not yet sure how this works, but I'm excited to find out. 
 
-What does an ordered list look like in markdown.
+What does an _ordered_ list look like in markdown?
 1. Straight ones
 1. Some other type of ordering 
 
