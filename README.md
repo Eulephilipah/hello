@@ -1,15 +1,17 @@
 # hello
 
-## Secondary header 
+This file is part of Phil Hernandez's Psych 251 classwork
+## Goals addressed
 
-I'm not yet sure how this works, but I'm excited to find out. 
+1. git 
+1. github 
+1. repos
+	1. adding files
+	1. commiting files
+	1. pushing files
+1. Navigating between versions
 
-What does an _ordered_ list look like in markdown?
-1. Straight ones
-1. Some other type of ordering 
+## Relevant Files
 
-
-What about starting at 2?
-2. Does this start at two 
-2. Or does it do something different?
+pset0.R is a sample file that displays text. This was only used to test ability using git and serves no other purpose
 
