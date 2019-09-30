@@ -9,7 +9,7 @@ This file is part of Phil Hernandez's Psych 251 classwork
 	1. adding files
 	1. commiting files
 	1. pushing files
-1. Navigating between versions
+1. navigating between versions
 
 ## Relevant Files
 
